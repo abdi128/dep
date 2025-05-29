@@ -1,0 +1,33 @@
+<svg viewBox="0 0 200 240" width="200" height="240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path
+    d="
+      M100 20
+      L180 60
+      Q175 170 100 220
+      Q25 170 20 60
+      Z
+    "
+    fill="#1976d2"
+    stroke="#1976d2"
+    stroke-width="8"
+  />
+  <path
+    d="
+      M100 40
+      L164 70
+      Q160 155 100 200
+      Q40 155 36 70
+      Z
+    "
+    fill="#fff"
+  />
+  <polyline
+    points="55,150 85,120 105,170 125,90 155,150"
+    fill="none"
+    stroke="#1976d2"
+    stroke-width="10"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+  <circle cx="155" cy="150" r="12" fill="#1976d2" />
+</svg>
